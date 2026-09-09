@@ -48,3 +48,21 @@ The project focuses on building a semantic and accessible web component while ap
 * [x] Consistent use of a chosen color scheme and typography.
 * [x] Proper use of CSS techniques like Flexbox, media queries, and the box model.
 * [x] Use Google Fonts to enhance typography.
+
+## How to Use
+
+1. Clone or download this repository.
+
+```bash
+git clone https://github.com/aditnurdiansyah/testimonial-cards
+```
+
+2. Navigate to the project folder.
+
+```bash
+cd testimonial-cards
+```
+
+3. Open `index.html` in your browser.
+
+4. Customize the testimonials, avatar images, and styling based on your product needs.
