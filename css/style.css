@@ -149,10 +149,11 @@ body {
   text-decoration: underline;
 }
 
-/* Slider section */
+/* Slider Section */
 .testimonial-slider {
   width: 100%;
   background-color: #f9f9f9;
+  outline: 1px solid #000;
   border-radius: 10px;
   padding: 20px;
   display: flex;
@@ -213,7 +214,7 @@ body {
   font-weight: bold;
 }
 
-/* Container for all testimonials */
+/* Container for All Testimonials */
 .testimonials {
   display: flex;
   justify-content: center;
