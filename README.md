@@ -25,3 +25,14 @@ The project focuses on building a semantic and accessible web component while ap
 
 * **Multiple Testimonial Layouts & Cards**
   Design and style multiple distinct testimonial card variants (speech bubbles, avatar cards, highlight review cards) and a multi-profile slider structure.
+
+## Project Structure
+
+* **Homepage (`index.html`)**
+  The primary HTML document containing the various testimonial cards, user reviews, ratings, and profile information layout.
+
+* **Styles (`css/style.css`)**
+  Contains custom CSS styling, card positioning, flexbox layout, responsive media queries, typography, and visual enhancements.
+
+* **Assets (`assets/`)**
+  Directory containing project assets including `favicon/`, `logo/`, `open-graph/`, `profile-pictures/`, and `project-preview.png`.
