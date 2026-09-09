@@ -72,3 +72,9 @@ cd testimonial-cards
 This project provides practical experience in developing versatile Testimonial Cards with semantic structure, SEO optimization, modular styling, and clean UI components.
 
 By completing this project, the component serves as a solid building block for social proof sections, user review showcases, and portfolio landing pages.
+
+## Project Preview
+
+<p align="center">
+  <img src="/assets/project-preview.png" alt="Project Preview" width="800">
+</p>
