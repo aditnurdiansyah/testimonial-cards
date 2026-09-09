@@ -36,3 +36,15 @@ The project focuses on building a semantic and accessible web component while ap
 
 * **Assets (`assets/`)**
   Directory containing project assets including `favicon/`, `logo/`, `open-graph/`, `profile-pictures/`, and `project-preview.png`.
+
+## Submission Checklist
+
+* [x] Semantically structured HTML pages.
+* [x] SEO meta tags implemented.
+* [x] Open Graph tags included.
+* [x] Favicon configured.
+* [x] Responsive testimonial cards layout.
+* [x] Multiple testimonial card designs and slider section.
+* [x] Consistent use of a chosen color scheme and typography.
+* [x] Proper use of CSS techniques like Flexbox, media queries, and the box model.
+* [x] Use Google Fonts to enhance typography.
