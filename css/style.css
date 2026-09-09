@@ -185,7 +185,7 @@ body {
 .slider-profiles img:first-of-type,
 .slider-profiles img:last-of-type {
   scale: 0.8;
-  opacity: 0.3;
+  opacity: 0.2;
 }
 
 .slider-controls {
